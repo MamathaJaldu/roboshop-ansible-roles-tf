@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.robodevops.shop  
+REDIS_HOST: redis.robodevops.shop
+MYSQL_HOST: mysql.robodevops.shop
+RABBITMQ_HOST: rabbitmq.robodevops.shop
+CATALOGUE_HOST: catalogue.robodevops.shop
+USER_HOST: user.robodevops.shop
+CART_HOST: cart.robodevops.shop
+SHIPPING_HOST: shipping.robodevops.shop
+PAYMENT_HOST: payment.robodevops.shop
+DISPATCH_HOST: dispatch.robodevops.shop
